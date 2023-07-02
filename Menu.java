@@ -36,7 +36,7 @@ public class Menu
         
         
         //Two player Button
-        JButton twoPlayer = new JButton("Two Player");
+        JButton twoPlayer = new JButton("2 Player");
         constraints.gridx = 0;
         constraints.gridy = 1;
         
