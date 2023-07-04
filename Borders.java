@@ -1,9 +1,3 @@
-/*
- * Name: Dean, Josh, Barry
- * Teacher: Mr. Naccarato
- * Date: December 14, 2021
- * Module Due Date: December 17, 2021
-*/
 
 // Imports
 import javax.swing.*;
